@@ -32,3 +32,5 @@ st.sidebar.write("[Image Processing>](https://users.soict.hust.edu.vn/ductq/XLA%
 st.sidebar.write("[Python>](https://www.py4e.com/lessons)")
 st.sidebar.write("[ESP32>](https://randomnerdtutorials.com/getting-started-with-esp32/)")
 st.sidebar.write("[Streamlit official website](https://streamlit.io/)")
+st.sidebar.write("[Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)")
+st.sidebar.write("[Animation](https://lottiefiles.com/)")

@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("My Thesis")
-st.image('Em.jpg')
+st.image('ML.jpg')
 st.write("This website is about my research about my Graduate Thesis. Hope everything will be success!")
 st.title("1. Yolo")
 st.image('yolo.png')

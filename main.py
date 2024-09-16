@@ -27,7 +27,8 @@ st.write("ESP32 Cam is a MCU like ESP32 and also is a programmable camera module
 st.write("\nESP32 Cam Tutorial")
 if st.button("ESP32 Cam"):
     st.write("https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/")
-st.write("\nESP32 Tutorial")
-if st.button ("ESP32"):
-    st.write("https://randomnerdtutorials.com/getting-started-with-esp32/")
-
+st.sidebar.title("Reference")
+st.sidebar.write("[Image Processing>](https://users.soict.hust.edu.vn/ductq/XLA%20Lecture.pdf)")
+st.sidebar.write("[Python>](https://www.py4e.com/lessons)")
+st.sidebar.write("[ESP32>](https://randomnerdtutorials.com/getting-started-with-esp32/)")
+st.sidebar.write("[Streamlit official website](https://streamlit.io/)")

@@ -22,7 +22,7 @@ st.write("Streamlit Tutorial")
 if st.button("Streamlit"):
     st.write("https://streamlitpython.com/")
 st.title("4. ESP32 Cam")
-st.image('ESP32CAM.jpg')
+st.image('ESP32 CAM.jpg')
 st.write("ESP32 Cam is a MCU like ESP32 and also is a programmable camera module")
 st.write("\nESP32 Cam Tutorial")
 if st.button("ESP32 Cam"):

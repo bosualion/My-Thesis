@@ -16,7 +16,7 @@ st.write("OpenCV Tutorial")
 if st.button("OpenCV"):
     st.write("https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html")
 st.title("3. Streamlit")
-st.image('streamlit.jpg')
+st.image('streamlit.png')
 st.write("Streamlit is a python library for web development. This is is one of the fastest ways for python developer to create a website by Python Language.")
 st.write("Streamlit Tutorial")
 if st.button("Streamlit"):
